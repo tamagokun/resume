@@ -1,0 +1,184 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #586e75;
+	background: #eeefe7;
+	padding: 2em;
+}
+
+a {
+	color: #a6aebb;
+	text-decoration: none;
+	transition: color .5s;
+}
+
+a:hover {
+	color: #5c5061;
+	text-decoration: none;
+}
+
+a img {
+	border: none;
+}
+
+p {
+	margin-bottom: 0.858em;
+	text-shadow: 0 1px rgba(11,11,11,0.1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #2b2922;
+	line-height: 1.5em;
+}
+
+h1 {
+	margin-bottom: 0;
+	font-size: 3em;
+	text-align: center;
+}
+
+h1 + p,
+h1 + p + p {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	font-size: 1.75em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+h4 {
+	font-size: 1.25em;
+}
+
+ol, ul {
+	padding-left: 1.5em;
+}
+
+hr {
+	border: 0;
+	border-bottom: 1px solid #ccc;
+}
+
+blockquote {
+	padding: 13px 13px 21px 15px;
+	margin-bottom: 18px;
+	font-family:georgia,serif;
+	font-style: italic;
+}
+blockquote:before {
+	content:"\201C";
+	font-size:40px;
+	margin-left:-10px;
+	font-family:georgia,serif;
+	color:#eee;
+}
+
+blockquote p {
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 18px;
+	margin-bottom: 0;
+	font-style: italic;
+}
+
+code, pre {
+	font-family: Monaco, Andale Mono, Courier New, monospace;
+}
+
+code {
+	background-color: #fee9cc;
+	color: rgba(0, 0, 0, 0.75);
+	padding: 1px 3px;
+	font-size: 12px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+pre {
+	display: block;
+	padding: 14px;
+	margin: 0 0 18px;
+	line-height: 16px;
+	font-size: 11px;
+	border: 1px solid #d9d9d9;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+pre code {
+	background-color: #fff;
+	color:#737373;
+	font-size: 11px;
+	padding: 0;
+}
+
+strong {
+	color: #333;
+}
+
+h3 em,
+li em {
+	color: rgba(11,11,11,0.2);
+}
+
+h3 em {
+	font-size: 0.5em;
+}
+
+@media all and (min-width: 960px) {
+	body {
+		width: 45%;
+		margin: 0 0 0 40%;
+	}
+
+	h2 {
+		font-size: 2.5em;
+		position: absolute;
+		left: 15px;
+		width: 400px;
+		line-height: 1em;
+	}
+
+	h3 {
+		font-size: 2em;
+	}
+
+	h4 {
+		font-size: 1.5em;
+	}
+
+	h5 {
+		font-size: 1em;
+	}
+
+	hr {
+		margin: 2em 0 19px 0;
+	}
+}
