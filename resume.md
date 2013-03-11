@@ -10,18 +10,20 @@ Command line geek who cares about design and has a strong affection for beautifu
 My love for programming all started at the tender age of 8 (1994) when I wrote
 my first application using Visual Basic 4. When my Dad finally purchased
 Internet access for the house, I quickly gained a fond appreciation for web
-development. Through the years I would learn to wield Bash, PHP and MySQL, while
-dropping &lt;tables&gt; in favor of a more semantic web, and CSS.
+development. As I grew up, Linux, PHP, and MySQL became apart of me, as well
+as dropping &lt;tables&gt; in favor of a more semantic web, and CSS.
 
-After landing a position with Organic, Inc., I would soon be introduced to Ruby (Ruby on Rails) and Flash. These new found obsessions would mark my everlasting happiness of being a developer.
-
-Being completely immersed in open-source and new technologies at MSL Detroit, my skills have matured and my quest to learn and explore has become never ending.
+After living in Japan attending college, I came back to America to pursue web
+development as a career. Through the years I have learned a lot, and now spend
+most of my time on the command line working with servers, writing code,
+perfecting front ends, and discovering new ways to fulfill my inner geek.
 
 ## Recent Accomplishments
 --------------
-### [GM Education](http://education.gm.com) _education.gm.com_
+### [Kia Soul iPad](https://itunes.apple.com/app/id556436565) _on iOS App Store_
 
-MSL has managed the education section of GM.com for many years. Before 2012, this site has been completely static as well as having very restrictive design limitations. Given the green light to refresh the site and its content using newer technologies, we created a wonderful Wordpress site to allow for dead simple content entry and powerful templating features.
+An interactive experience where you “roll” a Kia Soul around and explore various
+areas. A fun part was coding the audio visualizer on the top of the screen.
 
 ### Rack'em and Toby _on Github_
 
@@ -29,7 +31,9 @@ While architecting and developing a brand new CMS for clients, I created some op
 
 ### [My Botanic Planet](http://mybotanicplanet.com) _mybotanicplanet.com_
 
-A flash experience designed to engage K-5 kids in the classroom and teach them about the environment and their role in it. This site first launched in 2011, and in March 2012, we launched a new area (Water Ways) which included an orignal game concept I developed.
+A flash experience designed to engage K-5 kids in the classroom and teach them
+about the environment and their role in it. This site first launched in 2011,
+and in March 2012, launched a new area (Water Ways) which included an orignal game concept I developed.
 
 ## Imprint
 ----------------
@@ -40,8 +44,18 @@ A flash experience designed to engage K-5 kids in the classroom and teach them a
 
 ## Experience
 ----------------------
+### LevelSet Solutions
+**Application Developer** _7/2012 - present_
+
+- Application development for numerous technologies
+	- iOS applications
+	- Flash development for touch screen kiosk
+	- Wordpress development
+	- Ruby development
+	- Code deployment strategy and server admin related tasks
+
 ### MSL Detroit
-**Senior Web Developer** _4/2010 - present_
+**Senior Web Developer** _4/2010 - 7/2012_
 
 - Lead technology and development for office
 	- Manage and quote project timelines and budgets
@@ -72,39 +86,28 @@ A flash experience designed to engage K-5 kids in the classroom and teach them a
 ### Organic, Inc.
 **Interactive Developer** _11/2009 - 3/2010_
 
-- Develop interactive web experiences using Flash/Flex/Actionscript 3
-- Utilize various design patterns to construct extensible and abstract applications
-- clients included Chrysler, Dodge, Jeep, Merril Lynch, Poise
-- collaborative environment using SVN
-
-_Reason for leaving: After losing their main account Chrysler as a client, a drastic shift of needed skill sets for a new client caused a rather large layoff_
+Wrote some great AS3 components for Chrysler, Dodge, Jeep, and Poise. Learned a
+lot about design patterns and writing code with many team members.
 
 ### MS&L Digital
 **Web Producer** _02/2008 - 11/2009_
 
+Got my front-end on nearly every day.
+
 - Slice up mock-ups into fully compliant sites using XHTML and CSS
-- Create templates for various engines and frameworks such as Wordpress, Plone, and RoR
-- Develop Wordpress plugins using OO PHP
-- Create advanced Flash applications, sites, widgets, and utilities using OO AS3 and AIR
+- Development with Wordpress, Plone, and Ruby on Rails
+- Advanced AS3/AIR application development
 - Work with account teams and clients to lead projects through the development phase to ensure a smooth and timely launch
 - Collaborate with designers and programmers to ensure projects are on target with the clients needs
-- use jQuery to create plugins for advanced DOM manipulation and animation
+- lots of javascript and jQuery
 - maintain, troublesheet, and manage Linux hosted servers running LAMP
-
-_Reason for leaving: A closer opportunity presented itself_
 
 ### Organic, Inc.
 **Interface Engineer** _10/2007 - 01/2008_
 
-- intense use of XHTML, CSS, JavaScript, Flash, AS, PHP, MySQL
-- created templates using XSLT
-- used MooTools for advanced JavaScript functionality
-- business meetings regarding process, brainstorming, and design
-- participation in team projects
-- leadership
-- update and maintain Chrysler.com
+Worked with a fine group of developers on Chrysler.com, Dodge.com, and Jeep.com.
 
-_Reason for leaving: Laid off due to a sharp decline of Chrysler's  annual budget_
+- Primarily developed with HTML/CSS/Javascript.
 
 ## Education History
 ----------------------
@@ -112,7 +115,8 @@ _Reason for leaving: Laid off due to a sharp decline of Chrysler's  annual budge
 ### Oakland Community College
 _2005-2007_
 
-- Studied courses pertaining to Computer Science focusing on the aspects of Web Development. This included database design, java, web development and networking.
+- Computer Science studies with a focus in Web Development.
+- Courses included database design, java, c++, networking and web development.
 
 ### Tokai Univrsity
 **Certificate of Japanese Language Proficiency** _09/2004 - 09/2005_
@@ -123,16 +127,20 @@ Living in Japan on my own, and being engulfed by a new culture and language comp
 **Graduating class of 2004** _08/2001 - 05/2004_
 
 - Graduated with honors in the National Japanese Honor Society
-- I had the privilege to study many different IT courses such as Visual Basic, C++, A+ Certification, and Network+ Certification.
+- Classes included Visual Basic, C++, A+ Certification and Network+ Certification.
 
-## Skill Sets
+## Proficiency
 ------------------
 
-**Development:** Love for PHP/Ruby/Actionscript and Javascript (Nodejs too) with more recent dabblings into Objective-C. Outstanding knowledge of HTML,CSS and JavaScript.
+**Development:** I code primarily with Ruby, PHP, and the front end stack
+(HTML, CSS, Javascript), but also have experience with Objective-C and Node.js.
 
-**Administration:** VIM, Bash, ZSH, Apache, nginx, MySQL, PostgresSQL, MongoDB, Monit
+**Administration:** vim, zsh, nginx, ubuntu, centos/el are the favorites.
+Running servers with nginx, Apache, SQL(my/postgres), MongoDB, monit. Experience
+working with Rackspace, Amazon EC2, and Heroku.
 
 ## Interests
 --------------------------
 
-Building things with wood, gardening, writing music and playing intruments, having awesome dotfiles, passing on geek knowledge to my family, grilling.
+Building things with wood, gardening, writing music and playing intruments,
+having awesome dotfiles, passing on geek knowledge to my family, grilling.
