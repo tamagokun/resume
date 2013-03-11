@@ -53,6 +53,7 @@ and in March 2012, launched a new area (Water Ways) which included an orignal ga
 	- Wordpress development
 	- Ruby development
 	- Code deployment strategy and server admin related tasks
+	- Responsive web design
 
 ### MSL Detroit
 **Senior Web Developer** _4/2010 - 7/2012_
